@@ -7,7 +7,7 @@ Estruturas de dados podem ser ***Lineares*** e ***Não-Lineares***.
 # 📚 Tipos Abstratos de Dados
 Um Tipo de Dado Abstrato (TAD) estabelece o conceito de tipo de dado separado da sua representação. Ou seja, requer que operações sejam definidas sobre os dados sem estarem atreladas a uma representação específica.
 
-## Para definir um TAD
+### Para definir um TAD
 O programador descreve o TAD em dois módulos separados:
 - Um módulo contém a definicação do TAD, onde encontra-se a representação da estrutura de dados e implementação de cada operação suportada;
 - O outro módulo contém a interface de cada operação suportada.
@@ -20,7 +20,7 @@ Portanto, a característica essencial de TAD é a separação entre a definiçã
 
 Logo, uma estrutura de dados pode ser vista, então, como uma implementação de um TAD.
 
-## Vantagens do uso de TAD
+### Vantagens do uso de TAD
 - Reuso: uma vez definido, implementado e testado, o TAD pode ser acessado por diferentes programas;
 - Manutenção: mudanças na implementação do TAD não afetam o código fonte dos programas que o utilizam;
 - Correção: o TAD é testado e funciona corretamente.
