@@ -22,4 +22,4 @@ Logo, uma estrutura de dados pode ser vista, então, como uma implementação de
 # 📚 Estruturas de Dados
 As estruturas de dados representam um conjunto de dados armazenados na memória. Esse conjunto precisa ser organizado de forma eficiente para oferecer uma melhor manipulação dos dados armazenados, o que tende a otimizar processos e operaçoes. A manipulação dessas estruturas através de declarações e instruções definem a parte dinâmica de um algoritmo, e o conjunto de estruturas de dados constituem formalmente um algoritmo para a resolução de problemas.
 
-Estruturas de dados podem ser ***Lineares*** e ***Não-Lineares***.
+Estruturas de dados podem ser [***Lineares***](https://github.com/juliakonflanz/TiposAbstratosDados/tree/main/EstruturasDadosLineares) e [***Não-Lineares***](https://github.com/juliakonflanz/TiposAbstratosDados/tree/main/EstruturasDadosNaoLineares).
