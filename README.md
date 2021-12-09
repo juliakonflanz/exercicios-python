@@ -1,3 +1,8 @@
+# 📚 Estruturas de Dados
+As estruturas de dados representam um conjunto de dados armazenados na memória. Esse conjunto precisa ser organizado de forma eficiente para oferecer uma melhor manipulação dos dados armazenados, o que tende a otimizar processos e operaçoes. A manipulação dessas estruturas através de declarações e instruções definem a parte dinâmica de um algoritmo, e o conjunto de estruturas de dados constituem formalmente um algoritmo para a resolução de problemas.
+
+Estruturas de dados podem ser [***Lineares***](https://github.com/juliakonflanz/TiposAbstratosDados/tree/main/EstruturasDadosLineares) e [***Não-Lineares***](https://github.com/juliakonflanz/TiposAbstratosDados/tree/main/EstruturasDadosNaoLineares).
+
 # 📚 Tipos Abstratos de Dados
 Um Tipo de Dado Abstrato (TAD) estabelece o conceito de tipo de dado separado da sua representação. Ou seja, requer que operações sejam definidas sobre os dados sem estarem atreladas a uma representação específica.
 
@@ -18,8 +23,3 @@ Logo, uma estrutura de dados pode ser vista, então, como uma implementação de
 - Reuso: uma vez definido, implementado e testado, o TAD pode ser acessado por diferentes programas;
 - Manutenção: mudanças na implementação do TAD não afetam o código fonte dos programas que o utilizam;
 - Correção: o TAD é testado e funciona corretamente.
-
-# 📚 Estruturas de Dados
-As estruturas de dados representam um conjunto de dados armazenados na memória. Esse conjunto precisa ser organizado de forma eficiente para oferecer uma melhor manipulação dos dados armazenados, o que tende a otimizar processos e operaçoes. A manipulação dessas estruturas através de declarações e instruções definem a parte dinâmica de um algoritmo, e o conjunto de estruturas de dados constituem formalmente um algoritmo para a resolução de problemas.
-
-Estruturas de dados podem ser [***Lineares***](https://github.com/juliakonflanz/TiposAbstratosDados/tree/main/EstruturasDadosLineares) e [***Não-Lineares***](https://github.com/juliakonflanz/TiposAbstratosDados/tree/main/EstruturasDadosNaoLineares).
