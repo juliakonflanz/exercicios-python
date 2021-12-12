@@ -20,6 +20,6 @@ Portanto, a característica essencial de TAD é a separação entre a definiçã
 Logo, uma estrutura de dados pode ser vista, então, como uma implementação de um TAD.
 
 ### Vantagens do uso de TAD
-- Reuso: uma vez definido, implementado e testado, o TAD pode ser acessado por diferentes programas;
-- Manutenção: mudanças na implementação do TAD não afetam o código fonte dos programas que o utilizam;
-- Correção: o TAD é testado e funciona corretamente.
+- **Reuso**: uma vez definido, implementado e testado, o TAD pode ser acessado por diferentes programas;
+- **Manutenção**: mudanças na implementação do TAD não afetam o código fonte dos programas que o utilizam;
+- **Correção**: o TAD é testado e funciona corretamente.
