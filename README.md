@@ -1,5 +1,5 @@
-# 📚 Estruturas de Dados
-Implementação dos Tipos Abstratos de Dados (TAD) em Estruturas de Dados [***Lineares***](https://github.com/juliakonflanz/TiposAbstratosDados/tree/main/EstruturasDadosLineares) e [***Não-Lineares***](https://github.com/juliakonflanz/TiposAbstratosDados/tree/main/EstruturasDadosNaoLineares).
+# 📚 Estruturas de Dados Lineares
+Implementação dos Tipos Abstratos de Dados (TAD) em Estruturas de Dados Lineares.
 
 **Tipos Abstratos de Dados** estabelecem o conceito de tipo de dado separado da sua representação. Ou seja, requer que operações sejam definidas sobre os dados sem estarem atreladas a uma representação específica.
 
