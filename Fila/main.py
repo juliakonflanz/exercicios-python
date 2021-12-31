@@ -1,5 +1,5 @@
-from filaEncadeada import *
-from pilhaEncadeada import *
+from fila import *
+from pilha import *
 
 def organiza():
     print("FILA")
