@@ -7,6 +7,9 @@ Implementação dos **Tipos Abstratos de Dados** (TAD) em Estruturas de Dados Li
 - Fila por [encadeamento](https://github.com/juliakonflanz/EstruturasDadosLineares/tree/main/Fila).
 - Tabela por [contiguidade física](https://github.com/juliakonflanz/EstruturasDadosLineares/tree/main/Tabela).
 
+#### Outros exemplos:
+- [Recursividade](https://github.com/juliakonflanz/EstruturasDadosLineares/tree/main/Recursividade).
+
 ---
 
 ## Tipos Abstratos de Dados
