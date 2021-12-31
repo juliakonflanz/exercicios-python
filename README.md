@@ -4,7 +4,7 @@ Implementação dos **Tipos Abstratos de Dados** (TAD) em Estruturas de Dados Li
 #### Exemplos
 - Listas por [contiguidade física](https://github.com/juliakonflanz/EstruturasDadosLineares/tree/main/ListaContiguidadeFisica) e [encadeadamento](https://github.com/juliakonflanz/EstruturasDadosLineares/tree/main/ListaEncadeada);
 - Pilhas por [contiguidade física](https://github.com/juliakonflanz/EstruturasDadosLineares/tree/main/PilhaContiguidadeFisica) e [encadeamento](https://github.com/juliakonflanz/EstruturasDadosLineares/tree/main/PilhaEncadeada);
-- Filas.
+- Fila por [encadeamento](https://github.com/juliakonflanz/EstruturasDadosLineares/tree/main/Fila).
 
 ---
 
