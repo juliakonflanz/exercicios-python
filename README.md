@@ -2,13 +2,13 @@
 Implementação dos **Tipos Abstratos de Dados** (TAD) em Estruturas de Dados Lineares.
 
 #### Exemplos
-- Listas por [contiguidade física](https://github.com/juliakonflanz/estruturas-dados-lineares/tree/main/listaContiguidadeFisica) e [encadeadamento](https://github.com/juliakonflanz/EstruturasDadosLineares/tree/main/listaEncadeada);
-- Pilhas por [contiguidade física](https://github.com/juliakonflanz/estruturas-dados-lineares/tree/main/pilhaContiguidadeFisica) e [encadeamento](https://github.com/juliakonflanz/EstruturasDadosLineares/tree/main/pilhaEncadeada);
-- Fila por [encadeamento](https://github.com/juliakonflanz/estruturas-dados-lineares/tree/main/filaEncadeada).
-- Tabela por [contiguidade física](https://github.com/juliakonflanz/estruturas-dados-lineares/tree/main/tabelaContiguidadeFisica).
+- Listas por [contiguidade física](https://github.com/juliakonflanz/estruturas-dados-lineares/tree/main/ListaContiguidadeFisica) e [encadeadamento](https://github.com/juliakonflanz/EstruturasDadosLineares/tree/main/ListaEncadeada);
+- Pilhas por [contiguidade física](https://github.com/juliakonflanz/estruturas-dados-lineares/tree/main/PilhaContiguidadeFisica) e [encadeamento](https://github.com/juliakonflanz/EstruturasDadosLineares/tree/main/PilhaEncadeada);
+- Fila por [encadeamento](https://github.com/juliakonflanz/estruturas-dados-lineares/tree/main/FilaEncadeada).
+- Tabela por [contiguidade física](https://github.com/juliakonflanz/estruturas-dados-lineares/tree/main/TabelaContiguidadeFisica).
 
 #### Outros exemplos:
-- [Recursividade](https://github.com/juliakonflanz/estruturas-dados-lineares/tree/main/recursividade).
+- [Recursividade](https://github.com/juliakonflanz/estruturas-dados-lineares/tree/main/Recursividade).
 
 ---
 
