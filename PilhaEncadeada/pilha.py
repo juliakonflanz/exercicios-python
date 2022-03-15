@@ -1,6 +1,3 @@
-# Disciplina de AED 2 - Tarefa de Pilhas (encadeamento)
-# Júlia Konflanz Freitas - 142358
-
 class Nodo:
     def __init__(self, dado):
         self.dado = dado
