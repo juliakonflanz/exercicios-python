@@ -6,6 +6,9 @@ Implementação em Python dos **Tipos Abstratos de Dados** (TAD) em Estruturas d
 - Fila por [encadeamento](https://github.com/juliakonflanz/estruturas-dados-lineares/tree/main/FilaEncadeada).
 - Tabela por [contiguidade física](https://github.com/juliakonflanz/estruturas-dados-lineares/tree/main/TabelaContiguidadeFisica).
 
+**Outros:**
+- [Recursividade](https://github.com/juliakonflanz/estruturas-dados-lineares/tree/main/Recursividade).
+
 <br/>
 
 ## Tipos Abstratos de Dados
