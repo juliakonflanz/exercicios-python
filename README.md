@@ -1,5 +1,5 @@
 # 📚 Estruturas de Dados Lineares
-Implementação em Python dos **Tipos Abstratos de Dados** (TAD) em Estruturas de Dados Lineares.
+Implementação dos **Tipos Abstratos de Dados** (TAD) em Estruturas de Dados Lineares.
 
 - Listas por [contiguidade física](https://github.com/juliakonflanz/estruturas-dados-lineares/tree/main/ListaContiguidadeFisica) e [encadeadamento](https://github.com/juliakonflanz/EstruturasDadosLineares/tree/main/ListaEncadeada);
 - Pilhas por [contiguidade física](https://github.com/juliakonflanz/estruturas-dados-lineares/tree/main/PilhaContiguidadeFisica) e [encadeamento](https://github.com/juliakonflanz/EstruturasDadosLineares/tree/main/PilhaEncadeada);
